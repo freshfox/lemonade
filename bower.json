@@ -4,8 +4,6 @@
     "main": "scss/lemonade.scss",
     "author": "Joe Richardson",
     "ignore": [
-        "README.md",
-        "bower.json",
-        "index.html"
+        "bower.json"
     ]
 }
